@@ -1,0 +1,4 @@
+NAME:Zoro
+OCC:SwordsMan
+AGE:24
+GENDER:MALE
